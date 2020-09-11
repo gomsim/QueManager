@@ -10,4 +10,4 @@ clearly shown on the top of the screen. When the order then is picked up the tic
 The program is made to run mostly invisible on top of the desktop, becasue the pub has a screen, but it runs adds on it, so I thought, if 
 the program is mostly transparent, the adds can run underneath while the ordering tickets only temporarily takes up a portion of the screen.
 
-[![QueManagerDemo](https://gifs.com/gif/quemanager-NLJpOm)]
+[![QueManagerDemo](https://j.gifs.com/NLJpOm.gif)]
